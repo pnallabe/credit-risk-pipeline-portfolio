@@ -18,11 +18,11 @@ Key Layers:
 8.	Monitoring & Governance — Drift detection (PSI/KS, AUC), vintage curves, MLflow registry, audit logging, compliance (CECL/IFRS9).
  
 # 📊 Datasets Used
-This portfolio leverages open datasets to simulate different credit products:
-•	Consumer Loans / Credit Cards → LendingClub Loan Data (Kaggle), German Credit (UCI)
-•	SMB Lending → SBA PPP Loan Data, Yelp Dataset
-•	Mortgages → Fannie Mae Loan Performance Data, Freddie Mac Loan-Level Dataset
-•	Macroeconomics → FRED API, World Bank Open Data
+This portfolio leverages open datasets to simulate different credit products:<br>
+•	Consumer Loans / Credit Cards → LendingClub Loan Data (Kaggle), German Credit (UCI)<br>
+•	SMB Lending → SBA PPP Loan Data, Yelp Dataset<br>
+•	Mortgages → Fannie Mae Loan Performance Data, Freddie Mac Loan-Level Dataset<br>
+•	Macroeconomics → FRED API, World Bank Open Data<br>
  
 # ⚙️ Tech Stack
 •	Data Engineering → Python, Pandas, dbt, Spark, Airflow/Prefect, Kafka/Kinesis (optional).
