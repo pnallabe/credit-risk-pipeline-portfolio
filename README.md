@@ -69,4 +69,3 @@ make run-api
 # Open Streamlit demo
 streamlit run app/streamlit_demo.py
 
-<img width="468" height="643" alt="image" src="https://github.com/user-attachments/assets/a3e125b7-c0a8-459f-a0db-a3b5b0ca2496" />
